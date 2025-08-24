@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Sujan Prasad 👋
 
-<!--
-**Sujanprasad/Sujanprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science & Information Technology student at SRKR Engineering College, passionate about software development, web technologies, and open source.
 
-Here are some ideas to get you started:
+- 🌱 Currently pursuing B.Tech (2nd year) in CSIT
+- 💻 Experience with Django (MVC & MVT), React, and web application development
+- 🏥 Built a Hospital Management System as a major project
+- 🌐 Exploring open source and collaborating on web development projects
+- 📚 Always learning new tools and best practices in software engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Languages: Python, JavaScript
+- Frameworks: Django, React
+- Tools: Git, VS Code
+
+## Interests
+
+- Open source software
+- Full-stack web development
+- Software architecture and design patterns
+- Watching movies, anime, and exploring new tech trends
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/sujan-prasad-97717b308)
+
+---
+
+*Excited to collaborate, contribute, and grow as a developer!*
