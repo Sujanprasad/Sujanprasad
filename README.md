@@ -11,8 +11,8 @@ I'm a Computer Science & Information Technology student at SRKR Engineering Coll
 ## Skills
 
 - Languages: Python, JavaScript
-- Frameworks: Django, React
-- Tools: Git, VS Code
+- Frameworks: Django,MERN
+- Tools: Git, VS Code,Firebase
 
 ## Interests
 
