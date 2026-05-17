@@ -106,15 +106,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sujanprasad&show_icons=true&theme=github_dark&hide_border=true&border_radius=12" height="170"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sujanprasad&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Sujanprasad&theme=github-dark-blue&hide_border=true&border_radius=12" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujanprasad&layout=compact&theme=github_dark&hide_border=true&border_radius=12" height="170"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=Sujanprasad&theme=github-dark&hide_border=true"/>
 
 </p>
 
