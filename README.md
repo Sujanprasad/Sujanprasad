@@ -14,24 +14,13 @@
 
 🌱 Currently learning **MERN Stack**, **Web3**, and Backend Architecture  
 
-⚡ Love building real-world projects, solving problems, and exploring new technologies  
+⚡ Love building real-world projects and exploring new technologies  
 
 ---
 
 # 🛠️ Tech Stack
 
 ## 💻 Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" height="75"/>
-<img src="https://skillicons.dev/icons?i=java" height="75"/>
-<img src="https://skillicons.dev/icons?i=c" height="75"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="75"/>
-<img src="https://skillicons.dev/icons?i=js" height="75"/>
-<img src="https://skillicons.dev/icons?i=ts" height="75"/>
-
-</p>
 
 <p align="center">
 
@@ -50,17 +39,6 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react" height="80"/>
-<img src="https://skillicons.dev/icons?i=nextjs" height="80"/>
-<img src="https://skillicons.dev/icons?i=html" height="80"/>
-<img src="https://skillicons.dev/icons?i=css" height="80"/>
-<img src="https://skillicons.dev/icons?i=tailwind" height="80"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" height="80"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -76,17 +54,6 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs" height="80"/>
-<img src="https://skillicons.dev/icons?i=express" height="80"/>
-<img src="https://skillicons.dev/icons?i=django" height="80"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="80"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="80"/>
-<img src="https://skillicons.dev/icons?i=firebase" height="80"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -99,17 +66,6 @@
 ---
 
 ## 🔧 Tools & Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git" height="80"/>
-<img src="https://skillicons.dev/icons?i=github" height="80"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="80"/>
-<img src="https://skillicons.dev/icons?i=postman" height="80"/>
-<img src="https://skillicons.dev/icons?i=linux" height="80"/>
-<img src="https://skillicons.dev/icons?i=figma" height="80"/>
-
-</p>
 
 <p align="center">
 
@@ -146,29 +102,19 @@
 
 ---
 
-## 🔥 Open Source & Learning Projects
-
-🔹 Exploring open-source contributions  
-
-🔹 Building practical real-world applications  
-
-🔹 Continuously improving development skills  
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=Sujanprasad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sujanprasad&show_icons=true&theme=github_dark&hide_border=true&border_radius=12" height="170"/>
 
-<img width="47%" src="https://streak-stats.demolab.com?user=Sujanprasad&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Sujanprasad&theme=github-dark-blue&hide_border=true&border_radius=12" height="170"/>
 
 </p>
 
 <p align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujanprasad&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujanprasad&layout=compact&theme=github_dark&hide_border=true&border_radius=12" height="170"/>
 
 </p>
 
@@ -200,11 +146,11 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/sujan-prasad-97717b308" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
 <a href="https://github.com/Sujanprasad" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="60"/>
+  <img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
 </p>
