@@ -68,28 +68,12 @@ I'm a **3rd-year Computer Science student** at **SRKR Engineering College** pass
 - 📱 Responsive design across all devices
 - **Tech Stack:** React, Node.js, Express, MongoDB
 
-### 💼 Pipeline Partner - CRM Dashboard
-**Modern Sales Pipeline Management**
-- Real-time sales analytics & team collaboration
-- Responsive UI with React 19 & TypeScript
-- TanStack Router for seamless navigation
-- Styled with Tailwind CSS for modern aesthetics
-- **Tech Stack:** React, TypeScript, TanStack Router, Tailwind CSS
-
-### 🤖 CIVIGUARD AI - Crisis Intelligence System
-**AI-Powered Emergency Response Tool**
-- Prompt-engineered civic intelligence analysis
-- Crisis simulation & risk assessment
-- Misinformation detection & threat indexing
-- Live deployment on Streamlit
-- **Tech Stack:** Python, Streamlit, AI/ML
-
-### ✍️ Text Summarizer - AI Content Tool
-**Intelligent Text Extraction & Summarization**
-- Extracts core meaning from lengthy documents
-- n8n-based AI workflow integration
-- Modern frontend interface
-- **Tech Stack:** HTML, CSS, JavaScript, n8n
+### 🌐 MERN Stack Applications
+**Scalable Full-Stack Solutions**
+- RESTful API design with best practices
+- Modern responsive UI with Tailwind CSS
+- Database optimization & query performance
+- Clean architecture & maintainable code
 
 ---
 
@@ -114,6 +98,18 @@ I'm a **3rd-year Computer Science student** at **SRKR Engineering College** pass
 
 ---
 
+## 📊 My GitHub Stats
+
+<div align="center">
+
+**Current Streak** 🔥 | **Longest Streak** 🎯
+---|---
+Coming Soon | Coming Soon
+
+</div>
+
+---
+
 ## 🎓 Key Achievements
 
 - ✅ Built and deployed multiple full-stack applications
@@ -121,7 +117,6 @@ I'm a **3rd-year Computer Science student** at **SRKR Engineering College** pass
 - ✅ Strong foundation in Data Structures & Algorithms
 - ✅ Experience with RESTful API design
 - ✅ Active in collaborative development
-- ✅ Created AI-powered production applications
 
 ---
 
