@@ -102,13 +102,11 @@
 
 ---
 
-# 📊 GitHub Stats
+# 🟢 GitHub Streak Stats
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sujanprasad&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="48%" src="https://streak-stats.demolab.com?user=Sujanprasad&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Sujanprasad&theme=dark&hide_border=true&fire=00c851&currStreakNum=00c851&currStreakLabel=00c851&sideNums=00c851&sideLabels=00c851"/>
 
 </p>
 
