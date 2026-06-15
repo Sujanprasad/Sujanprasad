@@ -14,7 +14,7 @@
 
 ## 🎯 About Me
 
-I'm a **3rd-year Computer Science student** at **SRKR Engineering College** passionate about building scalable web applications. I specialize in the **MERN Stack** and have hands-on experience with modern backend architecture and Web3 technologies.
+I'm a **3rd-year Computer Science student** at **SRKR Engineering College** passionate about building scalable web applications. I specialize in the **MERN Stack** and have hands-on experience with modern development practices.
 
 - 🎓 **B.Tech in Computer Science & IT** (SRKR Engineering College)
 - 💼 Experienced in Full Stack Development with focus on performance & clean code
@@ -68,12 +68,28 @@ I'm a **3rd-year Computer Science student** at **SRKR Engineering College** pass
 - 📱 Responsive design across all devices
 - **Tech Stack:** React, Node.js, Express, MongoDB
 
-### 🌐 MERN Stack Applications
-**Scalable Full-Stack Solutions**
-- RESTful API design with best practices
-- Modern responsive UI with Tailwind CSS
-- Database optimization & query performance
-- Clean architecture & maintainable code
+### 💼 Pipeline Partner - CRM Dashboard
+**Modern Sales Pipeline Management**
+- Real-time sales analytics & team collaboration
+- Responsive UI with React 19 & TypeScript
+- TanStack Router for seamless navigation
+- Styled with Tailwind CSS for modern aesthetics
+- **Tech Stack:** React, TypeScript, TanStack Router, Tailwind CSS
+
+### 🤖 CIVIGUARD AI - Crisis Intelligence System
+**AI-Powered Emergency Response Tool**
+- Prompt-engineered civic intelligence analysis
+- Crisis simulation & risk assessment
+- Misinformation detection & threat indexing
+- Live deployment on Streamlit
+- **Tech Stack:** Python, Streamlit, AI/ML
+
+### ✍️ Text Summarizer - AI Content Tool
+**Intelligent Text Extraction & Summarization**
+- Extracts core meaning from lengthy documents
+- n8n-based AI workflow integration
+- Modern frontend interface
+- **Tech Stack:** HTML, CSS, JavaScript, n8n
 
 ---
 
@@ -98,18 +114,6 @@ I'm a **3rd-year Computer Science student** at **SRKR Engineering College** pass
 
 ---
 
-## 📊 My GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sujanprasad&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujanprasad&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Key Achievements
 
 - ✅ Built and deployed multiple full-stack applications
@@ -117,6 +121,7 @@ I'm a **3rd-year Computer Science student** at **SRKR Engineering College** pass
 - ✅ Strong foundation in Data Structures & Algorithms
 - ✅ Experience with RESTful API design
 - ✅ Active in collaborative development
+- ✅ Created AI-powered production applications
 
 ---
 
