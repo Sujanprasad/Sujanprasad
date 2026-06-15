@@ -14,7 +14,7 @@
 
 ## 🎯 About Me
 
-I'm a **3rd-year Computer Science student** at **SRKR Engineering College** passionate about building scalable web applications. I specialize in the **MERN Stack** and have hands-on experience with modern development practices.
+I'm a **3rd-year Computer Science student** at **SRKR Engineering College** passionate about building scalable web applications. I specialize in the **MERN Stack** and have hands-on experience with mo[...]
 
 - 🎓 **B.Tech in Computer Science & IT** (SRKR Engineering College)
 - 💼 Experienced in Full Stack Development with focus on performance & clean code
@@ -104,7 +104,7 @@ I'm a **3rd-year Computer Science student** at **SRKR Engineering College** pass
 
 **Current Streak** 🔥 | **Longest Streak** 🎯
 ---|---
-Coming Soon | Coming Soon
+1 day | 3 days
 
 </div>
 
