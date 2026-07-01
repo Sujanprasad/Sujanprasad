@@ -1,6 +1,6 @@
 # Hi there, I'm Sujan Prasad 👋
 
-**Full Stack Developer | MERN Specialist | Open Source Enthusiast**
+**Full Stack Developer | MERN Stack | Open Source Enthusiast**
 
 <div align="center">
   
@@ -98,17 +98,6 @@ I'm a **3rd-year Computer Science student** at **SRKR Engineering College** pass
 
 ---
 
-## 📊 My GitHub Stats
-
-<div align="center">
-
-**Current Streak** 🔥 | **Longest Streak** 🎯
----|---
-1 day | 3 days
-
-</div>
-
----
 
 ## 🎓 Key Achievements
 
